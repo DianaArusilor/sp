@@ -3,7 +3,7 @@ T=40;%perioada
 f=1/40;%frecventa 
 wo=2*pi*f;
 duty=(1/40)*100;%factorul de umplere al semnalului conform  numarului de
-%ordine (1) din lista cu studenti funizata de seful grupei
+%ordine (1) din lista cu studenti furnizata de seful grupei
 timp=-80:0.2:80;%rezolutie temporala pentru afisarea a 4 perioade
 
 figure (1)
